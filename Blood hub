@@ -58,7 +58,7 @@ Tab:AddButton({
 
 local Tab = Window:MakeTab({
 
-    Name = "AliensInfClassicos",
+    Name = "Aliens",
 
     Icon = "rbxassetid://4483345998",
 
@@ -96,7 +96,7 @@ game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("UnMor
 
 local Section = Tab:AddSection({
 
-	Name = "AlieninfClassico"
+	Name = "Aliens"
 
 })
 
