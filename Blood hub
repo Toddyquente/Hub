@@ -28,7 +28,7 @@ local Section = Tab:AddSection({
 
 Tab:AddButton({
 
-    Name = "Speed",
+    Name = "Speed ",
 
     Callback = function()
 
